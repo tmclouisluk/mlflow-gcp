@@ -1,7 +1,7 @@
 # MLFlow in GCP
 Docker image for running mlflow in GCP (Recommend in Cloud Run)
 
-https://hub.docker.com/repository/docker/tmclouisluk/mflow-gcp
+https://hub.docker.com/repository/docker/tmclouisluk/mlflow-gcp
 
 ## Requirements
 #### Cloud SQL - PostgreSQL
